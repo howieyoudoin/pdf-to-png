@@ -1,0 +1,6 @@
+{
+  "name": "FolioPNG",
+  "description": "Drop one or more PDF files to automatically convert every page into crisp PNG images, with single-page or batch ZIP export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
